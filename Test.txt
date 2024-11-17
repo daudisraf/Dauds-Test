@@ -3,4 +3,5 @@ Fun
 Great
 Awful
 Confusing
+Crazy
 Here we go
